@@ -1,0 +1,14 @@
+.create__user {
+  width: 1180px;
+}
+
+.button__user {
+  left: 350px;
+  height: 40px;
+  margin-top: 5%;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.button__user span:hover {
+  color: black;
+}

@@ -1,0 +1,11 @@
+.list__user {
+  text-align: center;
+  padding: 10px ;
+  width: 1180px;
+}
+.list__user table{
+  background-color: rgb(253, 166, 166);
+ border-radius: 10px;
+text-align: center;
+}
+

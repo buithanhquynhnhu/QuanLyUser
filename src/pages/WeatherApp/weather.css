@@ -1,0 +1,21 @@
+.WeatherApp{
+    justify-content: center;
+    align-items: center;
+}
+.FormSubmit{
+    text-align: center;
+    align-items: center;
+}
+.FormSubmit button{
+    background-color: aqua;
+    width: 80px;
+}
+.FormSubmit input{
+    width: 300px;
+}
+.Thoitiet{
+    text-align: center;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}

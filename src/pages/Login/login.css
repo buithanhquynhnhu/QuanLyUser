@@ -1,0 +1,30 @@
+.app__form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("./images/img2.jpg");
+  background-size: cover;
+  width: 88vw;
+  height: 100vh;
+}
+
+.login__form {
+  background-color: rgba(255, 255, 255, 0.33);
+  box-shadow: 0px 8px 32px 0 rgba(3, 3, 182, 0.33);
+  padding: 0px 16px 16px 16px;
+  border-radius: 16px;
+  margin-bottom: 10%;
+  text-align: center;
+}
+
+.social__login {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    color: white;
+    font-size: 26px;
+}
+
+.social__icon {
+    cursor: pointer;
+}

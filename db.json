@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Ngan",
+      "email": "ngan@gmail.com",
+      "address": "Đồng Tháp",
+      "password": "12345",
+      "firstName": "Nguyễn ",
+      "surName": "Tuyết",
+      "fullName": "Nguyễn Tuyết Ngân"
+    },
+    {
+      "id": 2,
+      "userName": "Minh",
+      "email": "minh@gmail.com",
+      "address": "HCM",
+      "password": "12345",
+      "firstName": "Lê",
+      "surName": "Khải",
+      "fullName": "Lê Khải Minh"
+    },
+    {
+      "id": 3,
+      "userName": "Quan",
+      "email": "quan@gmail.com",
+      "address": "Đăk Lăk",
+      "password": "1234567",
+      "firstName": "NGuyễn",
+      "surName": "Minh",
+      "fullName": "Nguyễn Minh Quân"
+    },
+    {
+      "id": 4,
+      "userName": "Phuc",
+      "email": "phuc@gmail.com",
+      "address": "HCM",
+      "password": "123456",
+      "firstName": "Nguyễn",
+      "surName": "Duy",
+      "fullName": "Nguyễn Duy Phúc"
+    }
+  ]
+}
